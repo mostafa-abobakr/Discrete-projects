@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 1(Prime numbers)\\Project 1(Prime numbers)\\Project 1(Prime numbers).csproj",
-      "projectName": "Project 1(Prime numbers)",
-      "projectPath": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 1(Prime numbers)\\Project 1(Prime numbers)\\Project 1(Prime numbers).csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 2(perfect numbers)\\Project 2(perfect numbers)\\Project 2(perfect numbers).csproj",
+      "projectName": "Project 2(perfect numbers)",
+      "projectPath": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 2(perfect numbers)\\Project 2(perfect numbers)\\Project 2(perfect numbers).csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 1(Prime numbers)\\Project 1(Prime numbers)\\obj\\",
+      "outputPath": "C:\\Users\\LEGION\\OneDrive\\سطح المكتب\\Project 2(perfect numbers)\\Project 2(perfect numbers)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
